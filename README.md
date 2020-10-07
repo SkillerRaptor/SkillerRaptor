@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-skillerraptor.vercel.app/api/spotify-playing" alt="SkillerRaptor Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://spotify-now-playing.skillerraptor.vercel.app/api/spotify-playing" alt="SkillerRaptor Spotify Playing" width="350" />](https://open.spotify.com/user/lb29oh6uyed1f2hnb2ixcuxnb)
 
 ### Connect with me:
 
