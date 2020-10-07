@@ -44,28 +44,28 @@
 
 ---
 
-<summary>:zap: Recent GitHub Activity</summary>
-<br />
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/SkillerRaptor/SkillerRaptor/issues/1) in [SkillerRaptor/SkillerRaptor](https://github.com/SkillerRaptor/SkillerRaptor)
-<!--END_SECTION:activity-->
-<br clear="all" />
+<details>
+    <summary>:zap: Recent GitHub Activity</summary>
+    <br />
+    <!--START_SECTION:activity-->
+    1. ❗️ Closed issue [#1](https://github.com/SkillerRaptor/SkillerRaptor/issues/1) in [SkillerRaptor/SkillerRaptor](https://github.com/SkillerRaptor/SkillerRaptor)
+    <!--END_SECTION:activity-->
+    <br clear="all" />
+</details>
 
-<br />
-<br />
+<details>
+    <summary>:zap: GitHub Stats</summary>
+    <br />
+    <img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.skillerraptor.vercel.app/api?username=SkillerRaptor&show_icons=true&hide_border=true&theme=tokyonight" />
+    <br clear="all" />
+</details>
 
-<summary>:zap: GitHub Stats</summary>
-<br />
-<img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.skillerraptor.vercel.app/api?username=SkillerRaptor&show_icons=true&hide_border=true&theme=tokyonight" />
-<br clear="all" />
-
-<br />
-<br />
-
-<summary>:zap: GitHub Languages</summary>
-<br />
-<img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.skillerraptor.vercel.app/api/top-langs/?username=SkillerRaptor" />
-<br clear="all" />
+<details>
+    <summary>:zap: GitHub Languages</summary>
+    <br />
+    <img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.skillerraptor.vercel.app/api/top-langs/?username=SkillerRaptor" />
+    <br clear="all" />
+</details>
 
 [engine]: https://github.com/SkillerRaptor/HyperEngine
 [twitter]: https://twitter.com/SkillerRaptor25
