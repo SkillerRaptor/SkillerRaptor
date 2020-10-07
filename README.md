@@ -45,6 +45,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   <br />
   <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/SkillerRaptor/SkillerRaptor/issues/1) in [SkillerRaptor/SkillerRaptor](https://github.com/SkillerRaptor/SkillerRaptor)
+<!--END_SECTION:activity-->
   <br clear="all" />
 </details>
 
