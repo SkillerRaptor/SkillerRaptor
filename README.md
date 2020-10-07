@@ -1,5 +1,6 @@
 ﻿### Hi there, I'm Leon - aka SkillerRaptor 👋
 
+![GitHub followers](https://img.shields.io/github/followers/SkillerRaptor?color=181717&label=Follow%20%40SkillerRaptor&logo=Github&style=for-the-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SkillerRaptor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSkillerRaptor&screen_name=SkillerRaptor25)
 
 ## I'm a Developer and Student!!
