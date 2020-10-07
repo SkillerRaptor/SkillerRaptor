@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-SkillerRaptor.vercel.app/api/spotify-playing" alt="SkillerRaptor Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-skiller-raptor.vercel.app/api/spotify-playing" alt="SkillerRaptor Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -48,11 +48,11 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.SkillerRaptor.vercel.app/api?username=SkillerRaptor&show_icons=true&hide_border=true&theme=onedark" />
+<img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.skiller-raptor.vercel.app/api?username=SkillerRaptor&show_icons=true&hide_border=true&theme=onedark" />
 
 <summary>:zap: GitHub Languages</summary>
 
-<img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.SkillerRaptor.vercel.app/api/top-langs/?username=SkillerRaptor" />
+<img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.skiller-raptor.vercel.app/api/top-langs/?username=SkillerRaptor" />
 
 [engine]: https://github.com/SkillerRaptor/HyperEngine
 [twitter]: https://twitter.com/SkillerRaptor25
