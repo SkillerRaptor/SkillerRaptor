@@ -41,22 +41,24 @@
 
 ---
 
-<summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+    
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
 
-<br />
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-<summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.skillerraptor.vercel.app/api?username=SkillerRaptor&show_icons=true&hide_border=true&theme=tokyonight" />
+</details>
 
-<img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.skillerraptor.vercel.app/api?username=SkillerRaptor&show_icons=true&hide_border=true&theme=tokyonight" />
+<details>
+  <summary>:zap: GitHub Languages</summary>
 
-<br />
-
-<summary>:zap: GitHub Languages</summary>
-
-<img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.skillerraptor.vercel.app/api/top-langs/?username=SkillerRaptor" />
+  <img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.skillerraptor.vercel.app/api/top-langs/?username=SkillerRaptor" />
+</details>
 
 [engine]: https://github.com/SkillerRaptor/HyperEngine
 [twitter]: https://twitter.com/SkillerRaptor25
