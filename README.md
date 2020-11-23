@@ -48,7 +48,7 @@
     <summary>:zap: Recent GitHub Activity</summary>
     <br />
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MarcaGames/CountingBot/issues/2) in [MarcaGames/CountingBot](https://github.com/MarcaGames/CountingBot)
+1. ❗️ Closed issue [#1](https://github.com/SkillerRaptor/HyperDiscord/issues/1) in [SkillerRaptor/HyperDiscord](https://github.com/SkillerRaptor/HyperDiscord)
     <!--END_SECTION:activity-->
     <br clear="all" />
 </details>
