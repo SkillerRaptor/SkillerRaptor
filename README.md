@@ -48,7 +48,7 @@
     <summary>:zap: Recent GitHub Activity</summary>
     <br />
     <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/SkillerRaptor/HyperDiscord/issues/1) in [SkillerRaptor/HyperDiscord](https://github.com/SkillerRaptor/HyperDiscord)
+1. 🎉 Merged PR [#1](https://github.com/SkillerRaptor/HyperProject/pull/1) in [SkillerRaptor/HyperProject](https://github.com/SkillerRaptor/HyperProject)
     <!--END_SECTION:activity-->
     <br clear="all" />
 </details>
