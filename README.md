@@ -29,7 +29,7 @@
     <summary>:zap: Recent GitHub Activity</summary>
     <br />
     <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/SkillerRaptor/HyperEngine/issues/1) in [SkillerRaptor/HyperEngine](https://github.com/SkillerRaptor/HyperEngine)
+1. 🗣 Commented on [#2](https://github.com/SkillerRaptor/HyperEngine/issues/2) in [SkillerRaptor/HyperEngine](https://github.com/SkillerRaptor/HyperEngine)
     <!--END_SECTION:activity-->
     <br clear="all" />
 </details>
