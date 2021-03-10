@@ -5,20 +5,13 @@
 
 ## I'm a Developer and Student!!
 
-- 🔭 I just started my first [Game Engine][engine]!
+- 🔭 I'm programming in the moment my [Game Engine][engine]!
 - 🌱 I’m currently learning Vulkan
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar
 
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing.skillerraptor.vercel.app/api/spotify" alt="SkillerRaptor Spotify Playing" width="350" />](https://open.spotify.com/user/lb29oh6uyed1f2hnb2ixcuxnb)
-
-### Connect with me:
-
-[<img align="left" alt="SkillerRaptor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SkillerRaptor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SkillerRaptor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
@@ -49,6 +42,3 @@
 </details>
 
 [engine]: https://github.com/SkillerRaptor/HyperEngine
-[twitter]: https://twitter.com/SkillerRaptor25
-[youtube]: https://youtube.com/SkillerRaptor
-[instagram]: https://instagram.com/SkillerRaptor
