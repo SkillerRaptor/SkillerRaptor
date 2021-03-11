@@ -13,9 +13,6 @@
 
 [<img src="https://spotify-now-playing.skillerraptor.vercel.app/api/spotify" alt="SkillerRaptor Spotify Playing" width="350" />](https://open.spotify.com/user/lb29oh6uyed1f2hnb2ixcuxnb)
 
-<br />
-<br />
-
 ---
 
 <details>
