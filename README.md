@@ -9,20 +9,7 @@
 - 🌱 I’m currently learning Vulkan
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing.skillerraptor.vercel.app/api/spotify" alt="SkillerRaptor Spotify Playing" width="350" />](https://open.spotify.com/user/lb29oh6uyed1f2hnb2ixcuxnb)
-
 ---
-
-<details>
-    <summary>:zap: Recent GitHub Activity</summary>
-    <br />
-    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/SkillerRaptor/HyperEngine/issues/2) in [SkillerRaptor/HyperEngine](https://github.com/SkillerRaptor/HyperEngine)
-    <!--END_SECTION:activity-->
-    <br clear="all" />
-</details>
 
 <details>
     <summary>:zap: GitHub Stats</summary>
