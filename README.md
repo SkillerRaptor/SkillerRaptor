@@ -5,7 +5,7 @@
 
 ## I'm a hobby developer
 
-- 🔭 I'm programming in the moment my [Operating System]][os]!
+- 🔭 I'm programming in the moment my [Operating System][os]!
 - 🌱 I’m currently learning stuff about operating systems.
 - 🥅 2021 Goals: Contribute more
 
