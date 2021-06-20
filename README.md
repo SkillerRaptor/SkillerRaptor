@@ -5,9 +5,9 @@
 
 ## I'm a hobby developer
 
-- 🔭 I'm programming in the moment my [Operating System][os]!
-- 🌱 I’m currently learning stuff about operating systems.
-- 🥅 2021 Goals: Contribute more
+- 🔭 I'm programming at the moment on my [game engine][hyperengine]!
+- 🌱 I’m currently learning stuff about rendering.
+- 🥅 2021 Goals: Finish the basics of a project
 
 ---
 
@@ -25,4 +25,5 @@
     <br clear="all" />
 </details>
 
-[os]: https://github.com/SkillerRaptor/HyperOS
+[hyperengine]: https://github.com/SkillerRaptor/HyperEngine
+[hyperos]: https://github.com/SkillerRaptor/HyperOS
