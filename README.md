@@ -14,14 +14,14 @@
 <details>
     <summary>:zap: GitHub Stats</summary>
     <br />
-    <img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.skillerraptor.vercel.app/api?username=SkillerRaptor&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.skillerraptor.vercel.app/api?username=SkillerRaptor&theme=tokyonight&show_icons=true&hide_border=true" />
     <br clear="all" />
 </details>
 
 <details>
     <summary>:zap: GitHub Languages</summary>
     <br />
-    <img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.skillerraptor.vercel.app/api/top-langs/?username=SkillerRaptor" />
+    <img align="left" alt="SkillerRaptor's GitHub Stats" src="https://github-readme-stats.skillerraptor.vercel.app/api/top-langs/?username=SkillerRaptor&theme=tokyonight" />
     <br clear="all" />
 </details>
 
