@@ -5,9 +5,13 @@
 
 ## I'm a hobby developer
 
-- 🔭 I'm programming at the moment on my [game engine][hyperengine]!
+- 🔭 I'm programming at the moment on:
+    - [HyperEngine][hyper-engine]
+    - [HyperLang][hyper-lang]
+    - [HyperTranspiler][hyper-transpiler]
+    - [HyperOS][hyper-os]
 - 🌱 I’m interested into game engines, operating systems and compilers.
-- 🥅 2021 Goals: Finishing HyperEngine renderer
+- 🥅 2021 Goals: Finishing the HyperEngine renderer
 
 ---
 
@@ -32,5 +36,7 @@
     <br clear="all" />
 </details>
 
-[hyperengine]: https://github.com/SkillerRaptor/HyperEngine
-[hyperos]: https://github.com/SkillerRaptor/HyperOS
+[hyper-engine]: https://github.com/SkillerRaptor/HyperEngine
+[hyper-lang]: https://github.com/SkillerRaptor/HyperLang
+[hyper-transpiler]: https://github.com/SkillerRaptor/HyperTranspiler
+[hyper-os]: https://github.com/SkillerRaptor/HyperOS
