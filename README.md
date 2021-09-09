@@ -7,7 +7,6 @@
 
 - 🔭 I'm programming at the moment on:
     - [HyperEngine][hyper-engine]
-    - [HyperLang][hyper-lang]
     - [HyperOS][hyper-os]
 - 🌱 I’m interested into game engines, operating systems and compilers.
 - 🥅 2021 Goals: Finishing the HyperEngine renderer
