@@ -9,7 +9,6 @@
     - [HyperEngine][hyper-engine]
     - [HyperOS][hyper-os]
 - 🌱 I’m interested into game engines, operating systems and compilers.
-- 🥅 2021 Goals: Finishing the HyperEngine renderer
 
 ---
 
