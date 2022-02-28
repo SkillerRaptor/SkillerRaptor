@@ -1,11 +1,9 @@
 ﻿### Hi there, I'm SkillerRaptor 👋
 
-![GitHub followers](https://img.shields.io/github/followers/SkillerRaptor?color=181717&label=Follow%20%40SkillerRaptor&logo=Github&style=for-the-badge)
-
 ## I'm a hobby developer
 
 - 🔭 I'm programming at the moment on:
-    - [HyperEngine][hyper-engine]
+    - [HyperLang][hyper-lang]
     - [HyperOS][hyper-os]
 - 🌱 I’m interested into game engines, operating systems and compilers.
 
